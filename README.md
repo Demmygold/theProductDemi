@@ -5,7 +5,7 @@
 Many farmers in Nigeria work tirelessly to grow food but often lose profits because they can’t reach direct buyers. They end up selling through middlemen who take most of the gains, or worse, their produce spoils before it’s sold.
 
 *NaijaRoot* is a digital tool designed to change that.  
-It connects *farmers, **buyers, and **logistic drivers* on one trusted platform — helping farmers sell directly, buyers get fresh produce faster, and drivers earn by transporting goods safely.
+It connects farmers, buyers, and logistic drivers in one trusted platform by helping farmers sell directly, buyers get fresh produce faster, and drivers earn by transporting goods safely.
 
 Though tools like this already exist, most rural farmers don’t know about them. NaijaRoot brings visibility and trust to an already existing but unknown solution.
 
@@ -67,10 +67,10 @@ Voice support and trusted agents help farmers who aren’t familiar with smartph
 
 ##  Why NaijaRoot Is Different
 
-Unlike most agri-marketplace apps, *NaijaRoot* focuses on *rural inclusion*.  
+Unlike other competitors, *NaijaRoot* focuses on *rural inclusion*.  
 It’s designed for farmers who are often offline, skeptical of tech platforms, or left out of digital systems.
 
-By combining *offline accessibility, **local trust agents, and **logistic accountability, NaijaRoot becomes more than a marketplace — it becomes a **digital backbone for rural farmers*.
+By combining offline accessibility, local trust agents, and logistic accountability, NaijaRoot becomes more than a marketplace. It becomes a digital backbone for rural farmers*.
 
 ---
 
@@ -113,27 +113,27 @@ By combining *offline accessibility, **local trust agents, and **logistic accoun
 
 ---
 
-## 💭 The Reflection
+##  The Reflection
 
-At first, the idea of an “unknown product” felt confusing — how can you know what’s unknown?  
+At first, the idea of an “unknown product” felt confusing, how can you know what’s unknown?  
 Then it became clear: many solutions already exist, but people simply don’t know about them.
 
-NaijaRoot represents that gap — an existing concept made *visible, accessible, and trusted* for real farmers.
+NaijaRoot represents that gap of an existing concept made *visible, accessible, and trusted* for real farmers.
 
 During development, I learned:
 - Empathy matters more than features.
 - Simplicity builds usability.
 - Trust is the true foundation of adoption.
 
-NaijaRoot became more than a tool — it became a bridge between innovation and inclusion.
+NaijaRoot became more than a tool, it become a bridge between innovation and inclusion.
 
 ---
 
-## ❤ Conclusion
+##  Conclusion
 
-NaijaRoot is proof that innovation isn’t always about creating something new —  
+NaijaRoot is proof that innovation isn’t always about creating something new, 
 sometimes it’s about *making the unseen visible* and *giving life to what already exists.*
 
-By turning an “unknown product” into a trusted digital solution, NaijaRoot helps farmers grow more than crops — it helps them grow opportunities.
+By turning an “unknown product” into a trusted digital solution, NaijaRoot helps farmers grow more than crops, it helps them grow opportunities.
 
 ---
