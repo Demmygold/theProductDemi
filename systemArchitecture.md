@@ -78,7 +78,7 @@ Here’s how the components interact within the NaijaRoot ecosystem:
 
 ---
 
-## 🚀 Technical Feasibility
+##  Technical Feasibility
 
 - *Scalable:* Firebase and Node.js allow handling of large concurrent requests efficiently.  
 - *Reliable:* Real-time updates ensure data consistency across users.  
@@ -87,7 +87,7 @@ Here’s how the components interact within the NaijaRoot ecosystem:
 
 ---
 
-## 🧠 Design Philosophy
+##  Design Philosophy
 
 NaijaRoot is built with empathy for real users — especially rural farmers — which influences both design and technology decisions:
 - *Offline accessibility* and *lightweight UI* for areas with poor connectivity.  
@@ -96,7 +96,7 @@ NaijaRoot is built with empathy for real users — especially rural farmers — 
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - Add AI-powered *price prediction* for farm produce based on market trends.  
 - Introduce *USSD support* for farmers without smartphones.  
@@ -105,7 +105,7 @@ NaijaRoot is built with empathy for real users — especially rural farmers — 
 
 ---
 
-## 🧾 Summary
+##  Summary
 
 | Aspect | Description |
 |--------|--------------|
