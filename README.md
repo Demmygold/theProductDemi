@@ -93,6 +93,14 @@ By combining *offline accessibility, **local trust agents, and **logistic accoun
 4. Payments are held in escrow until both sides confirm satisfaction.  
 5. Ratings help build trust for future transactions.
 
+![NaijaRoot User Flow](https://www.canva.com/design/DAG3eISbPZw/jGzSN-1vFN1jspsWtEuuRg/edit?utm_content=DAG3eISbPZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+## 🧩 Prototype
+
+![NaijaRoot Prototype](https://www.canva.com/design/DAG3eISbPZw/jGzSN-1vFN1jspsWtEuuRg/edit?utm_content=DAG3eISbPZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 
 ## 🔒 Building Trust
